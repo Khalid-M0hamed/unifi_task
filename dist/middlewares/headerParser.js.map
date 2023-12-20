@@ -1,0 +1,1 @@
+{"version":3,"file":"headerParser.js","sourceRoot":"","sources":["../../src/middlewares/headerParser.ts"],"names":[],"mappings":";;;;;;;;;;;AAMA;;;;GAIG;AACH,SAA8B,YAAY,CACxC,GAAY,EACZ,GAAa,EACb,IAAkB;;QAElB,IAAI,CAAC;QAGL,CAAC;QAAC,OAAO,GAAG,EAAE,CAAC;YACb,OAAO,IAAI,CAAC,GAAG,CAAC,CAAC;QACnB,CAAC;QAED,IAAI,EAAE,CAAC;IACT,CAAC;CAAA;AAbD,+BAaC"}
